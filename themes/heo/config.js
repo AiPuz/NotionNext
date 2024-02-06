@@ -5,8 +5,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://hw.baby' },
-    { title: 'GPT4ZJU拼车中，快来使用最先进的大模型技术', url: 'https://hw.baby/gpt4zju' }
+    { title: '每日分享LLM-StableDiffusion-Ai前沿技术', url: 'https://hw.baby' },
+    { title: 'GPT4ZJU拼车中，30元/月即可使用全球最先进的大模型', url: 'https://hw.baby/gpt4zju' }
   ],
 
   // 英雄区左右侧组件颠倒位置
